@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# About Me
+
 <span class='anchor' id='about-me'></span>
 
 Hi! I'm Zhiguang Lu (芦志广, E-mail: luzhiguang23@mails.ucas.ac.cn). Now I am a Master student of **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**, supervised by Prof. [Qianqian Xu](https://qianqianxu010.github.io/) (Professor at ICT, CAS) and [Qingming Huang](https://qmhuang-ucas.github.io/) (IEEE Fellow). I have received the B.E. degree in Electronic Information Science and Technology from [CUMT](https://www.cumt.edu.cn/) in 2023. My research interests include machine learning. If you are interested in my research, please email me at <a href="luzhiguang23@mails.ucas.ac.cn">luzhiguang23@mails.ucas.ac.cn</a>.
@@ -23,7 +25,7 @@ Hi! I'm Zhiguang Lu (芦志广, E-mail: luzhiguang23@mails.ucas.ac.cn). Now I am
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI24BiLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
