@@ -90,11 +90,17 @@
 .school-box {
     display: flex;
     align-items: center; /* 让图片和文字垂直居中对齐 */
-  }
+    margin-bottom: 40px;
+}
   
-  .school-box img {
-    margin-right: 10px; /* 设置图片和文字之间的间距 */
-  }  
+.school-box img {
+    margin-right: 40px; /* 设置图片和文字之间的间距 */
+}  
+
+.school-box:not(:last-child) {
+    margin-bottom: 40px;
+}
+  
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
