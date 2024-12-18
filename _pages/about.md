@@ -30,9 +30,9 @@ Hi! I'm Zhiguang Lu (芦志广, E-mail: luzhiguang23@mails.ucas.ac.cn). Now I am
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI24BiLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification](https://arxiv.org/)
+**<font size=4>Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification</font>**
 
-**Zhiguang Lu**, [Qianqian Xu](https://qianqianxu010.github.io/), [Shilong Bao](https://statusrank.github.io/), [Zhiyong Yang](https://joshuaas.github.io/), [Qingming Huang](https://qmhuang-ucas.github.io/). 
+**Zhiguang Lu**, [Qianqian Xu](https://qianqianxu010.github.io/)<sup>\*</sup>, [Shilong Bao](https://statusrank.github.io/), [Zhiyong Yang](https://joshuaas.github.io/), [Qingming Huang](https://qmhuang-ucas.github.io/)<sup>\*</sup>
 Annual AAAI Conference on Artificial Intelligence (AAAI) 2025.  (Poster) | [[code]](https://github.com/ZhiguangLuu/BiLT)
 
 <!-- [**Code**](https://ferry-li.github.io/SI_SOD/)  -->
